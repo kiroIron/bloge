@@ -39,7 +39,7 @@ const Home = () => {
 <Card className="col-3.2 text-dark" style={{ width: '18rem' }}>
   <Card.Img variant="top" src={ImageThree} />
     <Card.Title>Card Title</Card.Title>
-      <h5>pSome quick example text to build on the card title and make up the bulk of
+      <h5>pSome quick example text; to build on the card title and make up the bulk of
       the card's content.</h5>
     <img src={ImageSeven} alt="user_comment" />
 </Card>
